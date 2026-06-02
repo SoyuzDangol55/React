@@ -1,0 +1,14 @@
+.Card img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+.Card{
+  border:1px solid black;
+  border-radius:10px;
+  padding:20px;
+  margin:10px;
+  text-align:center;
+  max-width: fit-content;
+  display: inline-block;
+}
