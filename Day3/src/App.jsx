@@ -4,7 +4,7 @@
 import {Student} from './Student.jsx'
 function App() {
  return(
-    <Student name="Soyuz Dangol" age={23}/> //Sending Data to Student.jsx Function Student
+    <Student name="Soyuz Dangol" age={23} isStudent="True"/> //Sending Data to Student.jsx Function Student
  );
 }
 
