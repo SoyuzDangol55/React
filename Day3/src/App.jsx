@@ -4,7 +4,13 @@
 import {Student} from './Student.jsx'
 function App() {
  return(
-    <Student name="Soyuz Dangol" age={23} isStudent="True"/> //Sending Data to Student.jsx Function Student
+  <>
+    {/* Sending Data to Student.jsx Function Student */}
+    <Student name="Soyuz Dangol" age={23} isStudent="True"/> 
+    <Student name="Dikshya Maharjan" age={22} isStudent="true"/>
+    <Student name="Laxmi Singh" age={42} isStudent="false"/>
+    
+    </>
  );
 }
 
