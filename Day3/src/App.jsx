@@ -2,6 +2,7 @@
 // A parent component can send data to a child component
 //<Component key=value>
 import {Student} from './Student.jsx'
+import PropTypes from 'prop-types'
 function App() {
  return(
   <>
@@ -13,5 +14,10 @@ function App() {
     </>
  );
 }
+
+
+Student.PropTypes = {
+  name
+};
 
 export default App
