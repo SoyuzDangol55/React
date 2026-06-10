@@ -4,9 +4,6 @@ import { Button } from './Button.jsx';
 function App() {
 return(
   <>
-  <Card/>
-  <Card/>
-  <Card/>
   <Button/>
   </>
 );
