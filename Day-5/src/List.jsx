@@ -5,8 +5,12 @@ function List(){
         {id:4, name:"Coconut",calories:159}];
 
         //Filtering the Array
-        const lowCaloriesfoods = fruits.filter(fruits => fruits.calories<100);
-    const listItems = lowCaloriesfoods.map(lowCaloriesfoods => <li key={lowCaloriesfoods.id}>{lowCaloriesfoods.name}: {lowCaloriesfoods.calories}</li>);
+        // const lowCaloriesfoods = fruits.filter(fruits => fruits.calories<100);  
+
+        const highcalfruits = fruits.filter(fruits => fruits.calories >=100);
+
+
+    const listItems = highcalfruits.map(highcalfruits => <li key={highcalfruits.id}>{highcalfruits.name}: {highcalfruits.calories}</li>);
 
 
 
