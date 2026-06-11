@@ -1,0 +1,23 @@
+.list-category{
+  font-size:xx-large;
+  font-weight:bold;
+  color:green;
+  margin-bottom:10px;
+  text-align:center;
+  border:2px solid black;
+  border-radius:5px;
+  background-color:aqua;
+}
+
+.listItems{
+  font-size:larger;
+  list-style:none;
+  color:purple;
+  text-align:center;
+  margin:0px;
+}
+
+.listItems li:hover{
+  color: black;
+  cursor:pointer;
+}
