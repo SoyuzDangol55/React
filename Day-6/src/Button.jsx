@@ -13,15 +13,18 @@ function Button() {
     }
 
 
-    function stopClick(name) { console.log(`${name} Stop Clicking me`); }
+    function stopClick(name) { 
+        console.log(`${name} Stop Clicking me`); 
+        }
 
 
 
 
     return (
         <>
-            <button onClick={() => stopClick("Bro")}>Click Me</button><br />
-            <button onClick={() => handleClick2("Soyuz")}>Click me Again</button>
+        <h1>Output On Console</h1>
+            <button onClick={() => stopClick("Bro")} className="btn1">Click Me</button><br />
+            <button onClick={() => handleClick2("Soyuz")} className="btn2">Click me Again</button>
         </>
     );
 }
