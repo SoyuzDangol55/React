@@ -1,5 +1,4 @@
 import Buttons from "./Buttons";
-
 function App(){
 return(
   <>
