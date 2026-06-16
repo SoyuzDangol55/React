@@ -35,3 +35,6 @@ The goal of this repository is to document my progress, maintain consistency in 
 ---
 
 ## Live Preview
+[Outputs](https://react-showcase-sandy.vercel.app/)
+
+---
