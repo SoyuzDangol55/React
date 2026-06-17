@@ -38,3 +38,6 @@ The goal of this repository is to document my progress, maintain consistency in 
 [Result](https://react-showcase-sandy.vercel.app/)
 
 ---
+
+## Progress Tracker
+ - [X] Day-1
