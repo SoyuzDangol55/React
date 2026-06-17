@@ -13,7 +13,7 @@ function MyComponent(){
     }
     return(
 
-        <div>
+        <div className='main-div'>
             <p>Your Favorite Car is: {car.year} | {car.make} | {car.model}</p>
             <input type="number" value={car.year} onChange={handleYearChange}/><br />
             <input type="text" value={car.make} onChange={handleMakeChange}/><br />
