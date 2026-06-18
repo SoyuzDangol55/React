@@ -18,7 +18,7 @@ return(
           </div>
           <div>
          <button onClick={()=>window.open("https://dayy-11.vercel.app/" , "_blank")}className="btns">Day-11</button>
-         <button onClick={()=>window.open("https://day-12-seven.vercel.app/" , "_blank")}className="btns">Day-11</button>
+         <button onClick={()=>window.open("https://day-12-seven.vercel.app/" , "_blank")}className="btns">Day-12</button>
           </div>
     </>
 );
