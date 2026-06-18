@@ -14,8 +14,11 @@ return(
          <button onClick={()=>window.open("https://day-7-rose.vercel.app/" , "_blank")}className="btns">Day-7</button>
           <button onClick={()=>window.open("https://day-8-eosin.vercel.app/" , "_blank")}className="btns">Day-8</button>
           <button onClick={()=>window.open("https://react-pi-lilac.vercel.app/" , "_blank")}className="btns">Day-9</button>
-           <button onClick={()=>window.open("https://day-10-nu.vercel.app/" , "_blank")}className="btns">Day-10</button><br />
-            <button onClick={()=>window.open("https://dayy-11.vercel.app/" , "_blank")}className="btns">Day-11</button>
+           <button onClick={()=>window.open("https://day-10-nu.vercel.app/" , "_blank")}className="btns">Day-10</button>
+          </div>
+          <div>
+         <button onClick={()=>window.open("https://dayy-11.vercel.app/" , "_blank")}className="btns">Day-11</button>
+         <button onClick={()=>window.open("https://day-12-seven.vercel.app/" , "_blank")}className="btns">Day-11</button>
           </div>
     </>
 );
