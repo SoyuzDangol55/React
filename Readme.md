@@ -49,3 +49,6 @@ The goal of this repository is to document my progress, maintain consistency in 
  - [X] Day-7
  - [X] Day-8
  - [X] Day-9
+ ---
+ ## Link to another repo
+ [Another Repo](https://github.com/SoyuzDangol55/React2)
