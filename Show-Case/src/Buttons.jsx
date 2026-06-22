@@ -19,6 +19,12 @@ return(
           <div>
          <button onClick={()=>window.open("https://dayy-11.vercel.app/" , "_blank")}className="btns">Day-11</button>
          <button onClick={()=>window.open("https://day-12-seven.vercel.app/" , "_blank")}className="btns">Day-12</button>
+         <button onClick={()=>window.open("https://day-13-black.vercel.app/" , "_blank")}className="btns">Day-13</button>
+          <button onClick={()=>window.open("https://day-14-chi.vercel.app/" , "_blank")}className="btns">Day-14</button>
+          <button onClick={()=>window.open("https://day-15-sigma.vercel.app/" , "_blank")}className="btns">Day-15</button>
+          </div>
+          </div>
+          </div>
           </div>
     </>
 );
